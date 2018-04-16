@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>Pile Up! Team</title>
+  <based-in>France</based-in>
+  <founding-date>October 26, 2017</founding-date>
+  <website>https://twitter.com/pileupgame</website>
+  <press-contact>contact.pileup@gmail.com</press-contact>
+
+  <!-- Google analytics ID: -->
+  <analytics></analytics>
+
+  <phone></phone>
+  <address>
+    <line>
+      <!-- Street -->
+    </line>
+    <line>
+      <!-- City -->
+    </line>
+    <line>
+      <!-- Country -->
+    </line>
+  </address>
+
+  <socials>
+    <social>
+      <name>Twitter @pileupgame</name>
+      <link>
+        https://twitter.com/pileupgame
+      </link>
+    </social>
+  </socials>
+
+  <description>We are a team of 9 former students from ENJMIN, a french video game school. Our love for video games, teamwork, and every edible things in general has united us through the creation of Pile Up!</description>
+
+  <!-- Choose between a single block: -->
+<!--   <history></history>
+ -->
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <trailers>
+    <trailer>
+      <name>Teaser</name>
+      <youtube>
+        AgB0OiFCRtI
+      </youtube>
+    </trailer>
+  </trailers>
+
+<!--   <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards> -->
+
+  <quotes>
+    <quote>
+      <description>"Plus qu'à polisher le polish"</description>
+      <name>Anonyme</name>
+      </quote>
+      <quote>
+      <description>"Pile Up!, un jeu qui déménage !"</description>
+      <name>Stéphane NATKIN</name>
+      <website>Blog</website>
+      <link>http://cedric.cnam.fr/~natkin/</link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals>
+
+  <credits>
+    <credit>
+      <person>Thaïs ARIAS</person>
+      <role>Game Designer</role>
+      <website></website>
+    </credit>
+     <credit>
+      <person>Jean NICOLAS</person>
+      <role>Game Designer</role>
+      <website>https://www.jean-nicolas.site/</website>
+    </credit>
+     <credit>
+      <person>Antonin DEMEILLEZ</person>
+      <role>UI / UX Designer</role>
+      <website>https://www.linkedin.com/in/antonin-demeilliez/</website>
+    </credit>
+     <credit>
+      <person>Seamus O'NEILL</person>
+      <role>Programmer</role>
+      <website>https://www.linkedin.com/in/seamus-o-neill-b9528671/</website>
+    </credit>
+     <credit>
+      <person>Yannis ATTARD</person>
+      <role>Programmer</role>
+      <website>https://notyannis.github.io/</website>
+    </credit>
+     <credit>
+      <person>Vincent LE MÉHAUTÉ</person>
+      <role>Producer</role>
+      <website>https://www.linkedin.com/in/vincent-le-mehaute/</website>
+    </credit>
+     <credit>
+      <person>Hélène BOUDIER</person>
+      <role>Animator / Graphic Designer</role>
+      <website></website>
+    </credit>
+     <credit>
+      <person>Alexandre CORNUDET</person>
+      <role>Graphic Designer</role>
+      <website>https://cornu.artstation.com/</website>
+    </credit>
+     <credit>
+      <person>Anize AMESTOY</person>
+      <role>Sound Designer / Compositor</role>
+      <website>https://anizeamestoy.wixsite.com/portfolio</website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+      <mail>contact.pileup@gmail.com</mail>
+    </contact>    
+    <contact>
+      <name>Twitter</name>
+      <link>https://twitter.com/pileupgame</link>
+    </contact>
+  </contacts>
+</company>
