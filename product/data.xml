@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gmame>
+  <title>Pile Up!</title>
+  <release-date>?????</release-date>
+  <website>https://atalprodus.itch.io/pileup</website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request></press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>SWIIIIIIIIIIIIITCH</name>
+      <link></link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency></currency>
+      <value></value>
+    </price>
+  </prices>
+
+  <description>Pi</description>
+
+  <!-- Choose between a single block: -->
+  <history></history>
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <features>
+    <feature></feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>First Playable Trailer</name>
+      <youtube>
+        Qi285zHdGZ4
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <itch>237415</iframe>
+    </itch>
+  </widgets>
+
+  <awards>
+    <award>
+      <description>Natkin Award</description>
+      <info></info>
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description>"Pile Up!, un jeu qui déménage !"</description>
+      <name>Stéphane NATKIN</name>
+      <website>Blog</website>
+      <link>http://cedric.cnam.fr/~natkin/</link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals>
+
+  <credits>
+    <credit>
+      <person></person>
+      <role></role>
+
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name></name>
+
+      <!-- Pick one: -->
+      <mail></mail>
+      <link></link>
+    </contact>
+  </contacts>
+</game>
