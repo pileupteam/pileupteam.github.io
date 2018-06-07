@@ -21,10 +21,14 @@
     </price>
   </prices>
 
-  <description>Pi</description>
+  <description>Pouët</description>
 
   <!-- Choose between a single block: -->
-  <history></history>
+  <history>
+    PileUp! is born in team of 9 hungry friends that would gather around breakfast every morning, grow cute plants,  squat in armchairs and occasionally work on a game to pass time.
+
+    The game was our graduating project at Cnam-Enjmin. It has been made in four months from scratch. The aim was to produce a demo that would be representative of the features of a bigger game. We had a lot of fun making this one and are now working to make the game real!
+</history>
 
   <!-- Or multiple blocks: -->
   <!--
@@ -37,10 +41,19 @@
   -->
 
   <features>
+    <feature>A very simple yet deep mechanic : piling !</feature>
+    <feature>An adventure you can share with up to four players !</feature>
+    <feature>A unique boss in every level</feature>
     <feature></feature>
   </features>
 
   <trailers>
+ <trailer>
+    <name>Teaser</name>
+      <youtube>
+        AgB0OiFCRtI
+      </youtube>
+    </trailer>
     <trailer>
       <name>First Playable Trailer</name>
       <youtube>
@@ -80,21 +93,61 @@
 
   <credits>
     <credit>
-      <person></person>
-      <role></role>
-
-      <!-- Optional: -->
-      <website></website>
+      <person>Thaïs ARIAS</person>
+      <role>Game Designer</role>
+      <website>https://www.linkedin.com/in/tha%C3%AFs-arias-6967b676/</website>
+    </credit>
+     <credit>
+      <person>Jean NICOLAS</person>
+      <role>Game Designer</role>
+      <website>https://www.jean-nicolas.site/</website>
+    </credit>
+     <credit>
+      <person>Antonin DEMEILLEZ</person>
+      <role>UI / UX Designer</role>
+      <website>https://www.linkedin.com/in/antonin-demeilliez/</website>
+    </credit>
+     <credit>
+      <person>Seamus O'NEILL</person>
+      <role>Programmer</role>
+      <website>https://www.linkedin.com/in/seamus-o-neill-b9528671/</website>
+    </credit>
+     <credit>
+      <person>Yannis ATTARD</person>
+      <role>Programmer</role>
+      <website>https://notyannis.github.io/</website>
+    </credit>
+     <credit>
+      <person>Vincent LE MÉHAUTÉ</person>
+      <role>Producer</role>
+      <website>https://www.linkedin.com/in/vincent-le-mehaute/</website>
+    </credit>
+     <credit>
+      <person>Hélène BOUDIER</person>
+      <role>Animator / Graphic Designer</role>
+      <website>https://heleneboudier.tumblr.com</website>
+    </credit>
+     <credit>
+      <person>Alexandre CORNUDET</person>
+      <role>Graphic Designer</role>
+      <website>https://cornu.artstation.com/</website>
+    </credit>
+     <credit>
+      <person>Anize AMESTOY</person>
+      <role>Sound Designer / Compositor</role>
+      <website>https://anizeamestoy.wixsite.com/portfolio</website>
     </credit>
   </credits>
 
   <contacts>
     <contact>
-      <name></name>
-
-      <!-- Pick one: -->
-      <mail></mail>
-      <link></link>
+      <name>Inquiries</name>
+      <mail>contact.pileup@gmail.com</mail>
+    </contact>    
+    <contact>
+      <name>Twitter</name>
+      <link>https://twitter.com/pileupgame</link>
     </contact>
   </contacts>
+
 </game>
