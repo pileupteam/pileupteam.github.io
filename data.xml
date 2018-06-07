@@ -37,14 +37,16 @@
 <!--   <history></history>
  -->
   <!-- Or multiple blocks: -->
-  <!--
+  
   <histories>
     <history>
-      <header></header>
-      <text></text>
+      <header>Team intentions</header>
+      <text>
+        In the PileUp team, we believe that games are a good way to create bonds between people. When we created this project, we thought there is a need in the industry for more cooperative games. Especially for casual games and children oriented games. This was our core intention:  the promise of an adventure that you could share with up to four people, a casual game that could gather the whole family, children and parents alike, in a funny, playful and non-violent space.
+      </text>
     </history>
   </histories>
-  -->
+  
 
   <trailers>
     <trailer>
