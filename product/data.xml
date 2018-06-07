@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<gmame>
+<game>
   <title>Pile Up!</title>
   <release-date>?????</release-date>
   <website>https://atalprodus.itch.io/pileup</website>
@@ -51,8 +51,7 @@
 
   <!-- You can set your widgets here (optional): -->
   <widgets>
-    <itch>237415</iframe>
-    </itch>
+    <itch>237415</itch>
   </widgets>
 
   <awards>
