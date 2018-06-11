@@ -21,7 +21,9 @@
     </price>
   </prices>
 
-  <description>Pouët</description>
+  <description>Pile Up is a 4 players cooperative 3D plateformer in which you have to jump on each others to progress through the levels. 
+You may pile on your friends or use items from the environnement to build-up the highest pile!
+Coordination and live communication will be required to progress through the dynamic levels and get rid of the bosses !</description>
 
   <!-- Choose between a single block: -->
   <history>
@@ -103,8 +105,8 @@
       <website>https://www.jean-nicolas.site/</website>
     </credit>
      <credit>
-      <person>Antonin DEMEILLEZ</person>
-      <role>UI / UX Designer</role>
+      <person>Antonin DEMEILLIEZ</person>
+      <role>UX Designer</role>
       <website>https://www.linkedin.com/in/antonin-demeilliez/</website>
     </credit>
      <credit>
