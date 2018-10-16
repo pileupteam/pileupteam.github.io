@@ -9,16 +9,16 @@
   <!-- Google analytics ID: -->
   <analytics></analytics>
 
-  <phone></phone>
+<!--   <phone></phone> -->
   <address>
     <line>
-      <!-- Street -->
+      148 Rue de Bordeaux
     </line>
     <line>
-      <!-- City -->
+      16000 ANGOULÊME
     </line>
     <line>
-      <!-- Country -->
+      FRANCE
     </line>
   </address>
 
@@ -64,7 +64,7 @@
     </award>
   </awards> -->
 
-  <quotes>
+<!--   <quotes>
     <quote>
       <description>"Plus qu'à polisher le polish"</description>
       <name>Anonyme</name>
@@ -77,7 +77,7 @@
       <description></description>
       <link></link>
     </additional>
-  </additionals>
+  </additionals> -->
 
   <credits>
     <credit>
