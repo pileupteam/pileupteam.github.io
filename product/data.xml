@@ -2,14 +2,18 @@
 <game>
   <title>Pile Up!</title>
   <release-date>?????</release-date>
-  <website>https://atalprodus.itch.io/pileup</website>
+  <website>http://www.pileupgame.come/</website>
 
   <!-- Link to request press copy: -->
   <press-copy-request></press-copy-request>
 
   <platforms>
     <platform>
-      <name>SWIIIIIIIIIIIIITCH</name>
+      <name>Steam</name>
+      <link></link>
+    </platform> 
+    <platform>
+      <name>Nintendo Switch</name>
       <link></link>
     </platform>
   </platforms>
@@ -65,18 +69,18 @@ Coordination and live communication will be required to progress through the dyn
   </trailers>
 
   <!-- You can set your widgets here (optional): -->
-  <widgets>
+<!--   <widgets>
     <itch>237415</itch>
-  </widgets>
+  </widgets> -->
 
-  <awards>
+<!--   <awards>
     <award>
       <description>Natkin Award</description>
       <info></info>
     </award>
-  </awards>
+  </awards> -->
 
-  <quotes>
+<!--   <quotes>
     <quote>
       <description>"Pile Up!, un jeu qui déménage !"</description>
       <name>Stéphane NATKIN</name>
@@ -84,7 +88,7 @@ Coordination and live communication will be required to progress through the dyn
       <link>http://cedric.cnam.fr/~natkin/</link>
     </quote>
   </quotes>
-
+ -->
   <additionals>
     <additional>
       <title></title>
