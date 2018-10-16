@@ -50,7 +50,6 @@ Coordination and live communication will be required to progress through the dyn
     <feature>A very simple yet deep mechanic : piling !</feature>
     <feature>An adventure you can share with up to four players !</feature>
     <feature>A unique boss in every level</feature>
-    <feature></feature>
   </features>
 
   <trailers>
@@ -89,13 +88,13 @@ Coordination and live communication will be required to progress through the dyn
     </quote>
   </quotes>
  -->
-  <additionals>
+<!--   <additionals>
     <additional>
       <title></title>
       <description></description>
       <link></link>
     </additional>
-  </additionals>
+  </additionals> -->
 
   <credits>
     <credit>
