@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <company>
-  <title>Pile Up! Team</title>
+  <title>Seed By Seed</title>
   <based-in>France</based-in>
   <founding-date>October 26, 2017</founding-date>
   <website>https://twitter.com/pileupgame</website>
@@ -31,7 +31,7 @@
     </social>
   </socials>
 
-  <description>We are a team of 9 former students from ENJMIN, a french video game school. Our love for video games, teamwork, and every edible things in general has united us through the creation of Pile Up!</description>
+  <description>We are a team of 8 former students from ENJMIN, a french video game school. Our love for video games, teamwork, and every edible things in general has united us through the creation of Pile Up!</description>
 
   <!-- Choose between a single block: -->
 <!--   <history></history>
@@ -42,7 +42,7 @@
     <history>
       <header>Team intentions</header>
       <text>
-        In the PileUp team, we believe that games are a good way to create bonds between people. When we created this project, we thought there is a need in the industry for more cooperative games. Especially for casual games and children oriented games. This was our core intention:  the promise of an adventure that you could share with up to four people, a casual game that could gather the whole family, children and parents alike, in a funny, playful and non-violent space.
+        At Seed By Seed, we believe that games are a good way to create bounds between people. When we created this project, we thought there is a need in the industry for more cooperative games. Especially for casual games and children oriented games. This was our core intention:  the promise of an adventure that you could share with up to four people, a casual game that could gather the whole family, children and parents alike, in a funny, playful and non-violent space.
       </text>
     </history>
   </histories>
@@ -107,7 +107,7 @@
     </credit>
      <credit>
       <person>Vincent LE MÉHAUTÉ</person>
-      <role>Producer</role>
+      <role>Ex - Producer</role>
       <website>https://www.linkedin.com/in/vincent-le-mehaute/</website>
     </credit>
      <credit>
