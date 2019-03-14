@@ -25,15 +25,15 @@
     </price>
   </prices>
 
-  <description>Pile Up is a 4 players cooperative 3D plateformer in which you have to jump on each others to progress through the levels. 
-You may pile on your friends or use items from the environnement to build-up the highest pile!
-Coordination and live communication will be required to progress through the dynamic levels and get rid of the bosses !</description>
+  <description>Pile Up is a 1 to 4 player co-op 3D platformer for friends and families!
+Jump joyfully, play together and use items from the environnement to build the funniest piles! 
+Coordination and creativity is required to progress through the joyful levels of the cardboard world and encounter the most friendly bosses!</description>
 
   <!-- Choose between a single block: -->
   <history>
-    PileUp! is born in team of 9 hungry friends that would gather around breakfast every morning, grow cute plants,  squat in armchairs and occasionally work on a game to pass time.
+Pile Up is all about cooperation and communication, through both its local multi-player setting and its main mechanics. Piling is its core, and the main challenge is not about execution skills but the team's ability to organize and to achieve a common goal.
 
-    The game was our graduating project at Cnam-Enjmin. It has been made in four months from scratch. The aim was to produce a demo that would be representative of the features of a bigger game. We had a lot of fun making this one and are now working to make the game real!
+We are convinced that games are a great way to learn about helping each other. Pile Up is a non-violent, safe place for players to express themselves, to experiment freely and to be creative. We want to build a game that encourages people of all ages and game habits to play together and to join their forces and talents to share a pleasant, friendly moment.
 </history>
 
   <!-- Or multiple blocks: -->
@@ -47,9 +47,10 @@ Coordination and live communication will be required to progress through the dyn
   -->
 
   <features>
-    <feature>A very simple yet deep mechanic : piling !</feature>
-    <feature>An adventure you can share with up to four players !</feature>
-    <feature>A unique boss in every level</feature>
+    <feature>A very simple yet deep mechanic : piling!</feature>
+    <feature>An adventure you can share with up to four players!</feature>
+    <feature>Explore a cardoard world!</feature>
+    <feature>Enjoy original mini-games</feature>
   </features>
 
   <trailers>
