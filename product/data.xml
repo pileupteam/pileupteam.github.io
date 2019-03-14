@@ -18,12 +18,33 @@
     </platform>
   </platforms>
 
-  <prices>
+  <socials>
+    <social>
+      <name>Twitter @pileupgame</name>
+      <link>
+        https://twitter.com/pileupgame
+      </link>
+    </social>
+    <social>
+      <name>Facebook @pileupgame</name>
+      <link>
+        https://www.facebook.com/pileupgame/
+      </link>
+    </social>
+    <social>
+      <name>Newsletter</name>
+      <link>
+        https://t.co/J6OjfK7Vc8
+      </link>
+    </social>
+  </socials>
+
+<!--   <prices>
     <price>
       <currency></currency>
       <value></value>
     </price>
-  </prices>
+  </prices> -->
 
   <description>Pile Up is a 1 to 4 player co-op 3D platformer for friends and families!
 Jump joyfully, play together and use items from the environnement to build the funniest piles! 
