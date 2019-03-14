@@ -18,27 +18,6 @@
     </platform>
   </platforms>
 
-  <socials>
-    <social>
-      <name>Twitter @pileupgame</name>
-      <link>
-        https://twitter.com/pileupgame
-      </link>
-    </social>
-    <social>
-      <name>Facebook @pileupgame</name>
-      <link>
-        https://www.facebook.com/pileupgame/
-      </link>
-    </social>
-    <social>
-      <name>Newsletter</name>
-      <link>
-        https://t.co/J6OjfK7Vc8
-      </link>
-    </social>
-  </socials>
-
 <!--   <prices>
     <price>
       <currency></currency>
