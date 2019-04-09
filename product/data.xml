@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <game>
   <title>Pile Up!</title>
-  <release-date>?????</release-date>
+  <release-date>-</release-date>
   <website>http://www.pileupgame.com/</website>
 
   <!-- Link to request press copy: -->
-  <press-copy-request></press-copy-request>
+  <press-copy-request>contact.pileup@gmail.com</press-copy-request>
 
   <platforms>
     <platform>
-      <name>Steam</name>
+      <name>PC</name>
       <link></link>
     </platform> 
     <platform>
-      <name>Nintendo Switch</name>
+      <name>Consoles (TBA)</name>
       <link></link>
     </platform>
   </platforms>
 
-<!--   <prices>
+   <prices>
     <price>
-      <currency></currency>
-      <value></value>
+      <currency>EUR</currency>
+      <value>-</value>
     </price>
-  </prices> -->
-
-  <description>Pile Up is a 1 to 4 player co-op 3D platformer for friends and families!
-Jump joyfully, play together and use items from the environnement to build the funniest piles! 
-Coordination and creativity is required to progress through the joyful levels of the cardboard world and encounter the most friendly bosses!</description>
+  </prices>
+  
+  <description>Pile Up is a 1 to 4 player co-op 3D platformer for friends and families.
+Jump on your friends, pile together and start exploring colorful cardboard worlds! 
+Coordination and creativity are the key to success in progressing through the joyful levels and meeting the most friendly bosses.</description>
 
   <!-- Choose between a single block: -->
   <history>
@@ -60,12 +60,6 @@ We are convinced that games are a great way to learn about helping each other. P
         Tt5iQol_o1Q
       </youtube>
     </trailer>
-    <trailer>
-      <name>First Playable Version Trailer</name>
-      <youtube>
-        Qi285zHdGZ4
-      </youtube>
-    </trailer>
   </trailers>
 
   <!-- You can set your widgets here (optional): -->
@@ -73,12 +67,28 @@ We are convinced that games are a great way to learn about helping each other. P
     <itch>237415</itch>
   </widgets> -->
 
-<!--   <awards>
+<awards>
     <award>
-      <description>Natkin Award</description>
-      <info></info>
+      <description>Best Indie Game</description>
+      <info>L-Games 2019</info>
     </award>
-  </awards> -->
+	<award>
+      <description>Official competition at Stunfest</description>
+      <info>Rennes 2019</info>
+    </award>
+	<award>
+      <description>Showcased at FJA</description>
+      <info>Angoulême 2019</info>
+    </award>
+	<award>
+      <description>Official competition at Flip (Student game)</description>
+      <info>Parthenay 2018</info>
+    </award>
+	<award>
+      <description>Showcased at Stunfest</description>
+      <info>Rennes 2018</info>
+    </award>
+  </awards>
 
 <!--   <quotes>
     <quote>
@@ -104,14 +114,14 @@ We are convinced that games are a great way to learn about helping each other. P
       <website>https://www.linkedin.com/in/tha%C3%AFs-arias-6967b676/</website>
     </credit>
      <credit>
-      <person>Jean NICOLAS</person>
-      <role>Game Designer</role>
-      <website>https://www.jean-nicolas.site/</website>
-    </credit>
-     <credit>
       <person>Antonin DEMEILLIEZ</person>
-      <role>UX Designer</role>
+      <role>Game UX Designer</role>
       <website>https://www.linkedin.com/in/antonin-demeilliez/</website>
+    </credit>
+	 <credit>
+      <person>Jean NICOLAS</person>
+      <role>Business Manager</role>
+      <website>https://www.linkedin.com/in/jeanico/</website>
     </credit>
      <credit>
       <person>Seamus O'NEILL</person>
@@ -122,11 +132,6 @@ We are convinced that games are a great way to learn about helping each other. P
       <person>Yannis ATTARD</person>
       <role>Programmer</role>
       <website>https://notyannis.github.io/</website>
-    </credit>
-     <credit>
-      <person>Vincent LE MÉHAUTÉ</person>
-      <role>Producer</role>
-      <website>https://www.linkedin.com/in/vincent-le-mehaute/</website>
     </credit>
      <credit>
       <person>Hélène BOUDIER</person>
@@ -141,7 +146,7 @@ We are convinced that games are a great way to learn about helping each other. P
      <credit>
       <person>Anize AMESTOY</person>
       <role>Sound Designer / Compositor</role>
-      <website>https://anizeamestoy.wixsite.com/portfolio</website>
+      <website>https://www.linkedin.com/in/anize-amestoy/</website>
     </credit>
   </credits>
 
@@ -153,6 +158,18 @@ We are convinced that games are a great way to learn about helping each other. P
     <contact>
       <name>Twitter</name>
       <link>https://twitter.com/pileupgame</link>
+    </contact>
+	<contact>
+      <name>Facebook</name>
+      <link>https://www.facebook.com/pileupgame/</link>
+    </contact>
+	<contact>
+      <name>Youtube</name>
+      <link>https://www.youtube.com/channel/UCPs1bErnl-qlaVFerhaRUpQ</link>
+    </contact>
+	<contact>
+      <name>LinkedIn</name>
+      <link>https://www.linkedin.com/company/pileup/</link>
     </contact>
   </contacts>
 
