@@ -12,6 +12,10 @@
       <name>PC</name>
       <link></link>
     </platform> 
+	<platform>
+	  <name>Nintendo Switch</name>
+	  <link></link>
+	</platform>
     <platform>
       <name>Consoles (TBA)</name>
       <link></link>
@@ -25,9 +29,9 @@
     </price>
   </prices>
   
-  <description>Pile Up is a 1 to 4 player co-op 3D platformer for friends and families.
-Jump on your friends, pile together and start exploring colorful cardboard worlds! 
-Coordination and creativity are the key to success in progressing through the joyful levels and meeting the most friendly bosses.</description>
+  <description>Pile Up is a 1-to-4 player co-op 3D platformer for friends and families!
+Jump joyfully, play together and use items you find along the way to build the wackiest piles! 
+Coordination and creativity are required to progress through the joyful levels of the cardboard world and encounter the most friendly creatures! Experiment everything you're in the mood for in the welcoming handcrafted world of Pile Up!</description>
 
   <!-- Choose between a single block: -->
   <history>
@@ -48,18 +52,31 @@ We are convinced that games are a great way to learn about helping each other. P
 
   <features>
     <feature>A very simple yet deep mechanic : piling!</feature>
-    <feature>An adventure you can share with up to four players!</feature>
-    <feature>Explore a cardoard world!</feature>
-    <feature>Enjoy original mini-games</feature>
+    <feature>An adventure you can play from one to four players!</feature>
+    <feature>A drop in / drop out feature allowing players to join and leave at any time thanks a dynamic challenge rescalling!</feature>
+    <feature>3 compelling worlds to explore and secrets to unravel!</feature>
+	<feature>A lot of cute box-animals to meet and help throughout your journey!</feature>
+	<feature>5 box-items to try out and experiment with!</feature>
+	<feature>Even more toys to unlock and have fun with! </feature>
+	<feature>More than 10 playable skins to customize your boxlings!</feature>
+	<feature>6 mini-games for endless coopetitive fun with your friends!</feature>
+	<feature>An art direction entirely revolving around cardboard, from textures to sound design!</feature>
+	<feature>A strong focus on accessibility and usability!</feature>
   </features>
 
-  <trailers>
- <trailer>
-    <name>Teaser</name>
+ <trailers>
+	<trailer>
+    <name>Gameplay Footage</name>
       <youtube>
-        Tt5iQol_o1Q
+        4nQQhfpvm2s
       </youtube>
     </trailer>
+	<trailer>
+	  <name>Trailer - First Playable Prototype</name>
+		<youtube>
+		Tt5iQol_o1Q
+		</youtube>
+	</trailer>
   </trailers>
 
   <!-- You can set your widgets here (optional): -->
@@ -68,25 +85,42 @@ We are convinced that games are a great way to learn about helping each other. P
   </widgets> -->
 
 <awards>
-    <award>
+
+	<award>
+	  <description>Official Selection</description>
+	  <info>Festival Européen du Film Fantastique (FEFFS) 2019 (Strasbourg, France)</info>
+	</award>
+	<award>
+	  <description>Official Selection</description>
+	  <info>Indie Game Factory Award @Animasia 2019 (Bordeaux, France)</info>
+	</award>
+	<award>
+	  <description>Official Selection for Best Family Game</description>
+	  <info>BIG Festival 2019 (Sao Paulo, Brazil)</info>
+	</award>
+	<award>
+	  <description>Showcased</description>
+	  <info>Bordeaux Geek Festival 2019 (Bordeaux, France)</info>
+	</award>
+	<award>
+      <description>Best Upcoming Game</description>
+      <info>Stunfest 2019 (Rennes, France)</info>
+    </award>
+	<award>
       <description>Best Indie Game</description>
-      <info>L-Games 2019</info>
+      <info>L-Games 2019 (Livry-Gargan, France)</info>
     </award>
 	<award>
-      <description>Official competition at Stunfest</description>
-      <info>Rennes 2019</info>
+      <description>Showcased</description>
+      <info>Festival des Jeux 2019 (Angoulême, France)</info>
     </award>
 	<award>
-      <description>Showcased at FJA</description>
-      <info>Angoulême 2019</info>
+      <description>Official Selection (First Playable)</description>
+      <info>FLIP 2018 (Parthenay, France)</info>
     </award>
 	<award>
-      <description>Official competition at Flip (Student game)</description>
-      <info>Parthenay 2018</info>
-    </award>
-	<award>
-      <description>Showcased at Stunfest</description>
-      <info>Rennes 2018</info>
+      <description>Showcased (First Playable)</description>
+      <info>Stunfest 2018 (Rennes, France)</info>
     </award>
   </awards>
 
@@ -110,17 +144,17 @@ We are convinced that games are a great way to learn about helping each other. P
   <credits>
     <credit>
       <person>Thaïs ARIAS</person>
-      <role>Game Designer</role>
+      <role>Game / Level Designer</role>
       <website>https://www.linkedin.com/in/tha%C3%AFs-arias-6967b676/</website>
     </credit>
      <credit>
       <person>Antonin DEMEILLIEZ</person>
-      <role>Game UX Designer</role>
+      <role>UX / Level Designer</role>
       <website>https://www.linkedin.com/in/antonin-demeilliez/</website>
     </credit>
 	 <credit>
       <person>Jean NICOLAS</person>
-      <role>Business Manager</role>
+      <role>Game Designer / Business Manager</role>
       <website>https://www.linkedin.com/in/jeanico/</website>
     </credit>
      <credit>
@@ -140,12 +174,12 @@ We are convinced that games are a great way to learn about helping each other. P
     </credit>
      <credit>
       <person>Alexandre CORNUDET</person>
-      <role>Graphic Designer</role>
+      <role>Art Director / Graphic Designer</role>
       <website>https://cornu.artstation.com/</website>
     </credit>
      <credit>
       <person>Anize AMESTOY</person>
-      <role>Sound Designer / Compositor</role>
+      <role>Sound Designer / Composer</role>
       <website>https://www.linkedin.com/in/anize-amestoy/</website>
     </credit>
   </credits>
@@ -163,6 +197,10 @@ We are convinced that games are a great way to learn about helping each other. P
       <name>Facebook</name>
       <link>https://www.facebook.com/pileupgame/</link>
     </contact>
+	<contact>
+	  <name>Instagram</name>
+	  <link>https://www.instagram.com/pileupgame/</link>
+	</contact>
 	<contact>
       <name>Youtube</name>
       <link>https://www.youtube.com/channel/UCPs1bErnl-qlaVFerhaRUpQ</link>
