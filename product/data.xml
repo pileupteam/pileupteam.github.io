@@ -17,7 +17,7 @@
 	  <link></link>
 	</platform>
     <platform>
-      <name>Consoles (TBA)</name>
+      <name>Other Consoles (TBA)</name>
       <link></link>
     </platform>
   </platforms>
@@ -30,7 +30,9 @@
   </prices>
   
   <description>Pile Up is a 1-to-4 player co-op 3D platformer for friends and families!
+  
 Jump joyfully, play together and use items you find along the way to build the wackiest piles! 
+
 Coordination and creativity are required to progress through the joyful levels of the cardboard world and encounter the most friendly creatures! Experiment everything you're in the mood for in the welcoming handcrafted world of Pile Up!</description>
 
   <!-- Choose between a single block: -->
@@ -51,9 +53,9 @@ We are convinced that games are a great way to learn about helping each other. P
   -->
 
   <features>
-    <feature>A very simple yet deep mechanic : piling!</feature>
+    <feature>A very simple yet deep mechanic: piling!</feature>
     <feature>An adventure you can play from one to four players!</feature>
-    <feature>A drop in / drop out feature allowing players to join and leave at any time thanks a dynamic challenge rescalling!</feature>
+    <feature>A drop in / drop out feature allowing players to join and leave at any time thanks to dynamic challenge rescalling!</feature>
     <feature>3 compelling worlds to explore and secrets to unravel!</feature>
 	<feature>A lot of cute box-animals to meet and help throughout your journey!</feature>
 	<feature>5 box-items to try out and experiment with!</feature>
@@ -87,39 +89,39 @@ We are convinced that games are a great way to learn about helping each other. P
 <awards>
 
 	<award>
-	  <description>Official Selection</description>
+	  <description>Official Selection at</description>
 	  <info>Festival Européen du Film Fantastique (FEFFS) 2019 (Strasbourg, France)</info>
 	</award>
 	<award>
-	  <description>Official Selection</description>
-	  <info>Indie Game Factory Award @Animasia 2019 (Bordeaux, France)</info>
+	  <description>Official Selection for Indie Game Factory Award at</description>
+	  <info>Animasia 2019 (Bordeaux, France)</info>
 	</award>
 	<award>
-	  <description>Official Selection for Best Family Game</description>
+	  <description>Official Selection for Best Family Game at</description>
 	  <info>BIG Festival 2019 (Sao Paulo, Brazil)</info>
 	</award>
 	<award>
-	  <description>Showcased</description>
+	  <description>Showcased at</description>
 	  <info>Bordeaux Geek Festival 2019 (Bordeaux, France)</info>
 	</award>
 	<award>
-      <description>Best Upcoming Game</description>
+      <description>Best Upcoming Game at</description>
       <info>Stunfest 2019 (Rennes, France)</info>
     </award>
 	<award>
-      <description>Best Indie Game</description>
+      <description>Best Indie Game at</description>
       <info>L-Games 2019 (Livry-Gargan, France)</info>
     </award>
 	<award>
-      <description>Showcased</description>
+      <description>Showcased at</description>
       <info>Festival des Jeux 2019 (Angoulême, France)</info>
     </award>
 	<award>
-      <description>Official Selection (First Playable)</description>
+      <description>Official Selection (First Playable) at</description>
       <info>FLIP 2018 (Parthenay, France)</info>
     </award>
 	<award>
-      <description>Showcased (First Playable)</description>
+      <description>Showcased (First Playable) at</description>
       <info>Stunfest 2018 (Rennes, France)</info>
     </award>
   </awards>
