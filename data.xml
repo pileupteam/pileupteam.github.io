@@ -12,7 +12,7 @@
 <!--   <phone></phone> -->
   <address>
     <line>
-      148 Rue de Bordeaux
+      81 rue Fontaine du Lizier
     </line>
     <line>
       16000 ANGOULÊME
@@ -43,7 +43,9 @@
     </social>
   </socials>
 
-  <description>We are a team of 8 former students from ENJMIN, a french video game school. Our love for video games, teamwork, and every edible things in general has united us through the creation of Pile Up!</description>
+  <description>Seed by Seed is an independant game development studio, created to bring the coop game Pile Up to life. 
+
+We were brought together by the love of shared breakfasts, cute plants surrounding us, and carefully handcrafted videogames. We want to share this love with others, and we have chosen to combine our talents to create soft, fun, friendly games, games that remind people why everybody loves to play with their loved ones.</description>
 
   <!-- Choose between a single block: -->
 <!--   <history></history>
@@ -51,20 +53,33 @@
   <!-- Or multiple blocks: -->
   
   <histories>
-    <history>
-      <header>Team intentions</header>
+	<history>
+	  <header>Origin Story</header>
+	  <text>
+		Pile Up began as a student project and the team formed deep bonds during development. We discovered a shared need for cooperation adventures and feel-good experiences. Pile Up became the center of all our lives for the 6 months we spent working on it. We established a common vision which we are all excited and motivated to complete. And since October 2019, we are working hard to give life to Pile Up through our studio, Seed by Seed!
+		All of us are juniors with some experience in the industry and many personal projects under our belt. We all have different skills which complement each other! Oh! And we are French by the way! We are settled in the city of Angoulême.
+	  </text>
+	</history>
+	<history>
+	  <header>Design Philosophy</header>
       <text>
-        At Seed By Seed, we believe that games are a good way to create bounds between people. When we created this project, we thought there is a need in the industry for more cooperative games. Especially for casual games and children oriented games. This was our core intention:  the promise of an adventure that you could share with up to four people, a casual game that could gather the whole family, children and parents alike, in a funny, playful and non-violent space.
+        At Seed By Seed, we believe that games are a good way to create bounds between people. When we created this project, we thought there is a need in the industry for more cooperative games. Especially for casual games and children-oriented games. This was our core intention:  the promise of an adventure that you could share with up to four people, a casual game that could gather the whole family, children and parents alike, in a funny, playful and non-violent space.
       </text>
-    </history>
+	</history>
   </histories>
   
 
   <trailers>
     <trailer>
-      <name>Teaser</name>
+      <name>Gameplay Footage</name>
       <youtube>
-        n4MSpnTh8CY
+        4nQQhfpvm2s
+      </youtube>
+	</trailer>
+	<trailer>
+	  <name>Trailer - First Playable Version</name>
+      <youtube>
+        Tt5iQol_o1Q
       </youtube>
     </trailer>
   </trailers>
@@ -94,17 +109,17 @@
   <credits>
     <credit>
       <person>Thaïs ARIAS</person>
-      <role>Game Designer</role>
+      <role>Game / Level Designer</role>
       <website>https://www.linkedin.com/in/tha%C3%AFs-arias-6967b676/</website>
     </credit>
      <credit>
       <person>Jean NICOLAS</person>
-      <role>Game Designer</role>
+      <role>Game Designer / Business Manager</role>
       <website>https://www.jean-nicolas.site/</website>
     </credit>
      <credit>
       <person>Antonin DEMEILLIEZ</person>
-      <role>UX Designer</role>
+      <role>UX / Level Designer</role>
       <website>https://www.linkedin.com/in/antonin-demeilliez/</website>
     </credit>
      <credit>
@@ -118,23 +133,18 @@
       <website>https://notyannis.github.io/</website>
     </credit>
      <credit>
-      <person>Vincent LE MÉHAUTÉ</person>
-      <role>Ex - Producer</role>
-      <website>https://www.linkedin.com/in/vincent-le-mehaute/</website>
-    </credit>
-     <credit>
       <person>Hélène BOUDIER</person>
       <role>Animator / Graphic Designer</role>
       <website>https://heleneboudier.tumblr.com</website>
     </credit>
      <credit>
       <person>Alexandre CORNUDET</person>
-      <role>Graphic Designer</role>
+      <role>Art Director / Graphic Designer</role>
       <website>https://cornu.artstation.com/</website>
     </credit>
      <credit>
       <person>Anize AMESTOY</person>
-      <role>Sound Designer / Compositor</role>
+      <role>Sound Designer / Composer</role>
       <website>https://anizeamestoy.wixsite.com/portfolio</website>
     </credit>
   </credits>
