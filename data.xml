@@ -2,7 +2,7 @@
 <company>
   <title>Seed By Seed</title>
   <based-in>France</based-in>
-  <founding-date>October 26, 2017</founding-date>
+  <founding-date>2018</founding-date>
   <website>https://twitter.com/pileupgame</website>
   <press-contact>contact.pileup@gmail.com</press-contact>
 
@@ -10,23 +10,17 @@
   <analytics></analytics>
 
 <!--   <phone></phone> -->
-  <address>
+  <!--address>
     <line>
-      81 rue Fontaine du Lizier
+      Angoulême, France
     </line>
-    <line>
-      16000 ANGOULÊME
-    </line>
-    <line>
-      FRANCE
-    </line>
-  </address>
+  </address-->
 
   <socials>
     <social>
       <name>Twitter @pileupgame</name>
       <link>
-        https://twitter.com/pileupgame
+        https://www.pileupgame.com
       </link>
     </social>
     <social>
