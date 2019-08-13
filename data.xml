@@ -35,6 +35,12 @@
         https://www.facebook.com/pileupgame/
       </link>
     </social>
+	<social>
+      <name>Instagram @pileupgame</name>
+      <link>
+        https://www.instagram.com/pileupgame/
+      </link>
+    </social>
     <social>
       <name>Newsletter</name>
       <link>
@@ -71,25 +77,60 @@ We were brought together by the love of shared breakfasts, cute plants surroundi
 
   <trailers>
     <trailer>
-      <name>Gameplay Footage</name>
+      <name>Pile Up! Official Trailer</name>
       <youtube>
-        4nQQhfpvm2s
+        X6HPOCE6EJU
       </youtube>
 	</trailer>
+	
 	<trailer>
-	  <name>Trailer - First Playable Version</name>
+      <name>Devlogs</name>
       <youtube>
-        Tt5iQol_o1Q
+        rbJuqmtLYhI&list=PLb_qz5_i9sdCW5Yt0oE7ED95iHvCp-BNb&index=1
       </youtube>
-    </trailer>
+	</trailer>
+	
   </trailers>
 
-<!--   <awards>
-    <award>
-      <description></description>
-      <info></info>
+<awards>
+
+	<award>
+	  <description>Official Selection for Indie Games Section</description>
+	  <info>at Festival Européen du Film Fantastique (FEFFS) 2019 (Strasbourg, France)</info>
+	</award>
+	<award>
+	  <description>Official Selection for Indie Game Factory Award</description>
+	  <info>at Animasia 2019 (Bordeaux, France)</info>
+	</award>
+	<award>
+	  <description>Official Selection for Best Family Game</description>
+	  <info>at BIG Festival 2019 (Sao Paulo, Brazil)</info>
+	</award>
+	<award>
+	  <description>Showcased</description>
+	  <info>at Bordeaux Geek Festival 2019 (Bordeaux, France)</info>
+	</award>
+	<award>
+      <description>Best Upcoming Game</description>
+      <info>at Stunfest 2019 (Rennes, France)</info>
     </award>
-  </awards> -->
+	<award>
+      <description>Best Indie Game</description>
+      <info>at L-Games 2019 (Livry-Gargan, France)</info>
+    </award>
+	<award>
+      <description>Showcased</description>
+      <info>at Festival des Jeux 2019 (Angoulême, France)</info>
+    </award>
+	<award>
+      <description>Official Selection (First Playable)</description>
+      <info>at FLIP 2018 (Parthenay, France)</info>
+    </award>
+	<award>
+      <description>Showcased (First Playable)</description>
+      <info>at Stunfest 2018 (Rennes, France)</info>
+    </award>
+  </awards>
 
 <!--   <quotes>
     <quote>
@@ -149,7 +190,7 @@ We were brought together by the love of shared breakfasts, cute plants surroundi
     </credit>
   </credits>
 
-  <contacts>
+   <contacts>
     <contact>
       <name>Inquiries</name>
       <mail>contact.pileup@gmail.com</mail>
