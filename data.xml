@@ -80,10 +80,9 @@ We were brought together by the love of shared breakfasts, cute plants surroundi
 	<trailer>
       <name>Devlogs</name>
       <youtube>
-        rbJuqmtLYhI&list=PLb_qz5_i9sdCW5Yt0oE7ED95iHvCp-BNb&index=1
+       rbJuqmtLYhI
       </youtube>
 	</trailer>
-	
   </trailers>
 
 <awards>
@@ -131,15 +130,27 @@ We were brought together by the love of shared breakfasts, cute plants surroundi
       <description>"Plus qu'à polisher le polish"</description>
       <name>Anonyme</name>
     </quote>
-  </quotes>
+  </quotes -->
 
   <additionals>
     <additional>
       <title></title>
-      <description></description>
-      <link></link>
+      <description>Steam</description>
+      <link>https://store.steampowered.com/app/1109820</link>
     </additional>
-  </additionals> -->
+	
+	<additional>
+      <title></title>
+      <description>Gamejolt</description>
+      <link>https://gamejolt.com/@seedbyseed</link>
+    </additional>
+	
+	<additional>
+      <title></title>
+      <description>Itch.io</description>
+      <link>https://seedbyseed.itch.io/</link>
+    </additional>
+  </additionals>
 
   <credits>
     <credit>

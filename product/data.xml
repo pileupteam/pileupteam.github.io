@@ -117,13 +117,19 @@ We are convinced that games are a great way to learn about helping each other. P
     </quote>
   </quotes>
  -->
-<!--   <additionals>
+  <additionals>
     <additional>
       <title></title>
-      <description></description>
-      <link></link>
+      <description>Gamejolt</description>
+      <link>https://gamejolt.com/games/pileup/430447</link>
     </additional>
-  </additionals> -->
+	
+	<additional>
+      <title></title>
+      <description>Itch.io</description>
+      <link>https://seedbyseed.itch.io/pileup</link>
+    </additional>
+  </additionals>
 
   <credits>
     <credit>
