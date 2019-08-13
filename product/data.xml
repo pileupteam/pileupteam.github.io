@@ -9,8 +9,8 @@
 
   <platforms>
     <platform>
-      <name>PC</name>
-      <link></link>
+      <name>Steam</name>
+      <link>https://store.steampowered.com/app/1109820</link>
     </platform> 
   </platforms>
 
@@ -61,11 +61,13 @@ We are convinced that games are a great way to learn about helping each other. P
     </trailer>
   </trailers>
 
-  <!-- You can set your widgets here (optional): -->
-<!--   <widgets>
+  
+  <widgets>
+    <steam>1109820</steam>
     <itch>237415</itch>
-  </widgets> -->
-
+  </widgets>
+  
+  
 <awards>
 
 	<award>
