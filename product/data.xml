@@ -12,10 +12,6 @@
       <name>PC</name>
       <link></link>
     </platform> 
-	<platform>
-	  <name>Nintendo Switch</name>
-	  <link></link>
-	</platform>
   </platforms>
 
    <!--<prices>
@@ -50,25 +46,19 @@ We are convinced that games are a great way to learn about helping each other. P
     <feature>A very simple yet deep mechanic: piling!</feature>
     <feature>A memorable journey about friendship, helpfulness and never leaving anyone behind!</feature>
 	<feature>A drop in / drop out feature allowing players to join and leave at any time thanks to dynamic challenge rescalling!</feature>
-    <feature>3 compelling worlds to explore and secrets to unravel!</feature>
-    <feature>6 crazy mini-games and their variations to spice things up!</feature>
-	<feature>8 new skins to unlock, and many more toys and custom options!</feature>
+    <feature>Compelling worlds to explore and secrets to unravel!</feature>
+    <feature>Crazy mini-games and their variations to spice things up!</feature>
+	<feature>New skins to unlock, and many more toys and custom options!</feature>
 	<feature>An art direction entirely revolving around cardboard, from textures to sound design!</feature>
   </features>
 
  <trailers>
 	<trailer>
-    <name>Gameplay Footage</name>
+    <name>Pile Up! Official Trailer</name>
       <youtube>
-        4nQQhfpvm2s
+        X6HPOCE6EJU
       </youtube>
     </trailer>
-	<trailer>
-	  <name>Trailer - First Playable Prototype</name>
-		<youtube>
-		Tt5iQol_o1Q
-		</youtube>
-	</trailer>
   </trailers>
 
   <!-- You can set your widgets here (optional): -->
