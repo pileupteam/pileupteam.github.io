@@ -5,12 +5,24 @@
   <website>http://www.pileupgame.com/</website>
 
   <!-- Link to request press copy: -->
-  <press-copy-request>contact.pileup@gmail.com</press-copy-request>
+  <press-copy-request>press@handy-games.com </press-copy-request>
+
+ <partners>
+    <partner>
+      <type>Publisher</type>
+      <title>Handy Games</title>
+      <website>https://handy-games.com/en/games/pile-up/</website>
+    </partner>
+  </partners>
 
   <platforms>
     <platform>
       <name>Steam</name>
       <link>https://store.steampowered.com/app/1109820</link>
+    </platform>
+	<platform>
+      <name>Consoles</name>
+      <link>https://handy-games.com/en/games/pile-up/</link>
     </platform> 
   </platforms>
 
@@ -21,9 +33,8 @@
     </price>
   </prices> -->
   
-  <description>Pile Up is a 1-to-4 player co-op 3D platformer for friends and families!
-  
-Jump joyfully, share an adventure together and use items you find along the way to build the wackiest piles!</description>
+  <description>Pile Up! is a 1-to-4 player couch coop 3D platforming adventure for friends and families! 
+  Jump on each other, explore the cardboard world together and use items along the way to build the wackiest piles!</description>
 
   <!-- Choose between a single block: -->
   <history>
@@ -43,13 +54,14 @@ We are convinced that games are a great way to learn about helping each other. P
   -->
 
   <features>
-    <feature>A very simple yet deep mechanic: piling!</feature>
+    <feature>Pile up on each other!</feature>
+	<feature>A joyful adventure for 1 to 4 players</feature>
     <feature>A memorable journey about friendship, helpfulness and never leaving anyone behind!</feature>
-	<feature>A drop in / drop out feature allowing players to join and leave at any time thanks to dynamic challenge rescalling!</feature>
-    <feature>Compelling worlds to explore and secrets to unravel!</feature>
+	<feature>Cute colorful cardboard worlds and creatures to discover</feature>
+	<feature>Countless puzzles that foster creativity</feature>
+	<feature>Drop in and out at any time with dynamic challenge rescaling</feature>
     <feature>Crazy mini-games and their variations to spice things up!</feature>
-	<feature>New skins to unlock, and many more toys and custom options!</feature>
-	<feature>An art direction entirely revolving around cardboard, from textures to sound design!</feature>
+	<feature>Choose from a variety of skins for your own Boxling</feature>
   </features>
 
  <trailers>
@@ -71,20 +83,8 @@ We are convinced that games are a great way to learn about helping each other. P
 <awards>
 
 	<award>
-	  <description>Official Selection for Indie Games Section</description>
-	  <info>at Festival Européen du Film Fantastique (FEFFS) 2019 (Strasbourg, France)</info>
-	</award>
-	<award>
-	  <description>Official Selection for Indie Game Factory Award</description>
-	  <info>at Animasia 2019 (Bordeaux, France)</info>
-	</award>
-	<award>
-	  <description>Official Selection for Best Family Game</description>
-	  <info>at BIG Festival 2019 (Sao Paulo, Brazil)</info>
-	</award>
-	<award>
-	  <description>Showcased</description>
-	  <info>at Bordeaux Geek Festival 2019 (Bordeaux, France)</info>
+	  <description>Most Innovative Newcomer</description>
+	  <info>at PLAY19 2019 (Hamburg, Germany)</info>
 	</award>
 	<award>
       <description>Best Upcoming Game</description>
@@ -95,12 +95,32 @@ We are convinced that games are a great way to learn about helping each other. P
       <info>at L-Games 2019 (Livry-Gargan, France)</info>
     </award>
 	<award>
-      <description>Showcased</description>
-      <info>at Festival des Jeux 2019 (Angoulême, France)</info>
+      <description>Franco-German Video game prize</description>
+      <info>at OFAJ-DFJW 2019</info>
     </award>
+	<award>
+	  <description>Official Selection for Best Family Game</description>
+	  <info>at BIG Festival 2019 (Sao Paulo, Brazil)</info>
+	</award>
+	<award>
+	  <description>Official Selection for Indie Games Section</description>
+	  <info>at Festival Européen du Film Fantastique (FEFFS) 2019 (Strasbourg, France)</info>
+	</award>
+	<award>
+	  <description>Official Selection for Indie Game Factory Award</description>
+	  <info>at Animasia 2019 (Bordeaux, France)</info>
+	</award>
 	<award>
       <description>Official Selection (First Playable)</description>
       <info>at FLIP 2018 (Parthenay, France)</info>
+    </award>
+	<award>
+	  <description>Showcased</description>
+	  <info>at Bordeaux Geek Festival 2019 (Bordeaux, France)</info>
+	</award>
+	<award>
+      <description>Showcased</description>
+      <info>at Festival des Jeux 2019 (Angoulême, France)</info>
     </award>
 	<award>
       <description>Showcased (First Playable)</description>
@@ -108,15 +128,13 @@ We are convinced that games are a great way to learn about helping each other. P
     </award>
   </awards>
 
-<!--   <quotes>
+  <quotes>
     <quote>
-      <description>"Pile Up!, un jeu qui déménage !"</description>
-      <name>Stéphane NATKIN</name>
-      <website>Blog</website>
-      <link>http://cedric.cnam.fr/~natkin/</link>
+      <description>Handy Games show with Gronkh</description>
+      <link>https://press.handy-games.com/lets-play-event-indie-games-from-publisher-handygames-with-gronkh-live</link>
     </quote>
   </quotes>
- -->
+
   <additionals>
     <additional>
       <title></title>

@@ -3,7 +3,7 @@
   <title>Seed By Seed</title>
   <based-in>France</based-in>
   <founding-date>2018</founding-date>
-  <website>https://twitter.com/pileupgame</website>
+  <website>https://www.pileupgame.com/</website>
   <press-contact>contact.pileup@gmail.com</press-contact>
 
   <!-- Google analytics ID: -->
@@ -17,10 +17,16 @@
   </address-->
 
   <socials>
+	<social>
+      <name>Steam</name>
+      <link>
+        https://store.steampowered.com/developer/seedbyseed
+      </link>
+    </social>
     <social>
       <name>Twitter @pileupgame</name>
       <link>
-        https://www.pileupgame.com
+        https://twitter.com/PileUpGame
       </link>
     </social>
     <social>
@@ -43,9 +49,8 @@
     </social>
   </socials>
 
-  <description>Seed by Seed is an independant game development studio, created to bring the coop game Pile Up to life. 
-
-We were brought together by the love of shared breakfasts, cute plants surrounding us, and carefully handcrafted videogames. We want to share this love with others, and we have chosen to combine our talents to create soft, fun, friendly games, games that remind people why everybody loves to play with their loved ones.</description>
+  <description>Seed by Seed is an independant game development studio, created in 2018 to bring the cooperative game Pile Up to life.
+	We were gathered together by the love of shared breakfasts, cute plants and carefully handcrafted videogames. To share this passion with others, we have chosen to combine our talents to create cosy, fun and friendly games, that remind people why everybody likes to play with their loved ones.</description>
 
   <!-- Choose between a single block: -->
 <!--   <history></history>
@@ -57,7 +62,7 @@ We were brought together by the love of shared breakfasts, cute plants surroundi
 	  <header>Origin Story</header>
 	  <text>
 		Pile Up began as a student project and the team formed deep bonds during development. We discovered a shared need for cooperation adventures and feel-good experiences. Pile Up became the center of all our lives for the 6 months we spent working on it. We established a common vision which we are all excited and motivated to complete. And since October 2019, we are working hard to give life to Pile Up through our studio, Seed by Seed!
-		All of us are juniors with some experience in the industry and many personal projects under our belt. We all have different skills which complement each other! Oh! And we are French by the way! We are settled in the city of Angoulême.
+		And we are French by the way! We are settled in the city of Angoulême.
 	  </text>
 	</history>
 	<history>
@@ -88,20 +93,8 @@ We were brought together by the love of shared breakfasts, cute plants surroundi
 <awards>
 
 	<award>
-	  <description>Official Selection for Indie Games Section</description>
-	  <info>at Festival Européen du Film Fantastique (FEFFS) 2019 (Strasbourg, France)</info>
-	</award>
-	<award>
-	  <description>Official Selection for Indie Game Factory Award</description>
-	  <info>at Animasia 2019 (Bordeaux, France)</info>
-	</award>
-	<award>
-	  <description>Official Selection for Best Family Game</description>
-	  <info>at BIG Festival 2019 (Sao Paulo, Brazil)</info>
-	</award>
-	<award>
-	  <description>Showcased</description>
-	  <info>at Bordeaux Geek Festival 2019 (Bordeaux, France)</info>
+	  <description>Most Innovative Newcomer</description>
+	  <info>at PLAY19 2019 (Hamburg, Germany)</info>
 	</award>
 	<award>
       <description>Best Upcoming Game</description>
@@ -112,12 +105,32 @@ We were brought together by the love of shared breakfasts, cute plants surroundi
       <info>at L-Games 2019 (Livry-Gargan, France)</info>
     </award>
 	<award>
-      <description>Showcased</description>
-      <info>at Festival des Jeux 2019 (Angoulême, France)</info>
+      <description>Franco-German Video game prize</description>
+      <info>at OFAJ-DFJW 2019</info>
     </award>
+	<award>
+	  <description>Official Selection for Best Family Game</description>
+	  <info>at BIG Festival 2019 (Sao Paulo, Brazil)</info>
+	</award>
+	<award>
+	  <description>Official Selection for Indie Games Section</description>
+	  <info>at Festival Européen du Film Fantastique (FEFFS) 2019 (Strasbourg, France)</info>
+	</award>
+	<award>
+	  <description>Official Selection for Indie Game Factory Award</description>
+	  <info>at Animasia 2019 (Bordeaux, France)</info>
+	</award>
 	<award>
       <description>Official Selection (First Playable)</description>
       <info>at FLIP 2018 (Parthenay, France)</info>
+    </award>
+	<award>
+	  <description>Showcased</description>
+	  <info>at Bordeaux Geek Festival 2019 (Bordeaux, France)</info>
+	</award>
+	<award>
+      <description>Showcased</description>
+      <info>at Festival des Jeux 2019 (Angoulême, France)</info>
     </award>
 	<award>
       <description>Showcased (First Playable)</description>
